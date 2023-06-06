@@ -1,5 +1,5 @@
 # Employee Turnover Predictor
-![alt text]([http://url/to/img.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*oRKwlu787m3gjN-wDEKL_g.png)
+![alt text]([http://url/to/img.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*oRKwlu787m3gjN-wDEKL_g.png))
 
 ## Introduction
 Welcome to the Employee Turnover Predictor! This project aims to help organizations forecast and mitigate employee churn, enabling them to retain valuable talent and maintain a productive workforce. By leveraging machine learning techniques, we have developed a predictive model that can accurately identify employees at risk of leaving the company.
